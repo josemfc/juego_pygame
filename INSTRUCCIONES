@@ -1,0 +1,27 @@
+
+Apocalipsis zombie. El invencible rey de los muertos vivientes te ha 
+acorralado en las afueras de la ciudad. Huye de él luchando a través de 
+su ejercito de no-muertos o elimina a los que puedas en el intento...
+
+
+Controles:
+
+- Correr: cursores izquierdo y derecho.
+- Puño: tecla 'a'
+- Patada: tecla 's'
+- Patada alta (usar contra voladores): tecla 'd'
+
+
+Para ejecutar:
+$python2 juego_jmfc.py
+
+
+Creado por José María Fernández Campos.
+¡Buena suerte!
+
+
+(Nota del autor: Tenía una música de fondo en mi opinión mucho más acorde 
+al juego que la actual, pero al ocupar mucho espacio el archivo comprimido 
+superaba el límite de entrega)
+
+
